@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello world 25/7
+=======
+hellow world test
+>>>>>>> 95c80ff66cbe9fa578fac07b2a25a11697fccff9
